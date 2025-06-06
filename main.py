@@ -2,7 +2,6 @@ import moderngl
 import moderngl_window as mglw
 import struct
 
-
 class Triangle(mglw.WindowConfig):
     gl_version = (3, 3)
     window_size = (800, 600)
